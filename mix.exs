@@ -30,7 +30,7 @@ defmodule Hound.Mixfile do
   # { :barbat, "~> 0.1", github: "elixir-lang/barbat.git" }
   defp deps do
     [
-      {:httpoison, "~> 0.5.0"},
+      {:httpoison, "~> 0.6.2"},
       {:poison,    "~> 1.4.0"}
     ]
   end
